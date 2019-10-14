@@ -28,6 +28,10 @@
     "description": "The git commit command shows one or more objects (blobs, trees, tags and commits)."
   },
   {
+    "title": "git diff",
+    "description": "This command shows the file differences which are not yet staged."
+  },
+  {
     "title": "git tag",
     "description": "The git commit command provides Tags are ref's that point to specific points in git history. Tagging is generally used to capture a point in history that is used for a marked version release ."
   },
